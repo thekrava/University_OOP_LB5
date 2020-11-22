@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KravchenkoD2_12FIT5", "KravchenkoD2_12FIT5.csproj", "{5D0C7A51-8ED8-4803-BF31-5B5C8A44DA29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KravchenkoD2_12FIT5", "KravchenkoD2_12FIT5.csproj", "{5D0C7A51-8ED8-4803-BF31-5B5C8A44DA29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KravchenkoD2_12FIT5(2)", "..\KravchenkoD2_12FIT5(2)\KravchenkoD2_12FIT5(2).csproj", "{CE13B182-695B-469B-9B03-0B5FA46EBAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KravchenkoD2_12FIT5(3)", "..\KravchenkoD2_12FIT5(3)\KravchenkoD2_12FIT5(3).csproj", "{A5F55DA1-E406-45F7-9A53-1FF748B7004F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5D0C7A51-8ED8-4803-BF31-5B5C8A44DA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0C7A51-8ED8-4803-BF31-5B5C8A44DA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0C7A51-8ED8-4803-BF31-5B5C8A44DA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE13B182-695B-469B-9B03-0B5FA46EBAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE13B182-695B-469B-9B03-0B5FA46EBAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE13B182-695B-469B-9B03-0B5FA46EBAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE13B182-695B-469B-9B03-0B5FA46EBAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F55DA1-E406-45F7-9A53-1FF748B7004F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F55DA1-E406-45F7-9A53-1FF748B7004F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F55DA1-E406-45F7-9A53-1FF748B7004F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F55DA1-E406-45F7-9A53-1FF748B7004F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
